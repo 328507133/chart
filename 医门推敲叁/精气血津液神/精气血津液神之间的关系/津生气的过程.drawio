@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T09:44:26.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SxUM4D5lPOCKJvnMEX0S" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T09:54:49.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JIpB3tk1_FV3bncBEvRS" version="22.1.12" type="github">
   <diagram name="第 1 页" id="C6FDBwsaqbc1yJ5aqpkr">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,6 +68,15 @@
         </mxCell>
         <mxCell id="zUKTudWMmVZDvAgk6LWm-9" value="水谷之精" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUKTudWMmVZDvAgk6LWm-11" value="肝" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="720" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUKTudWMmVZDvAgk6LWm-12" value="肾" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="810" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUKTudWMmVZDvAgk6LWm-13" value="肾精" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="310" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
