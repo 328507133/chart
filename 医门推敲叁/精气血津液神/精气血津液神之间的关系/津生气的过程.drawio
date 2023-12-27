@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T09:11:43.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RrSEP3EMocwt93QyjPgH" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T09:12:02.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dqMAsPai81WhiwCu6O_y" version="22.1.12" type="github">
   <diagram name="第 1 页" id="C6FDBwsaqbc1yJ5aqpkr">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,10 +63,15 @@
         <mxCell id="zUKTudWMmVZDvAgk6LWm-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="450" y="550" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="zUKTudWMmVZDvAgk6LWm-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="zUKTudWMmVZDvAgk6LWm-4">
+        <mxCell id="zUKTudWMmVZDvAgk6LWm-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zUKTudWMmVZDvAgk6LWm-1" target="zUKTudWMmVZDvAgk6LWm-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="670" as="sourcePoint" />
             <mxPoint x="370" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUKTudWMmVZDvAgk6LWm-7" value="津液" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="zUKTudWMmVZDvAgk6LWm-5">
+          <mxGeometry x="0.0091" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zUKTudWMmVZDvAgk6LWm-6" value="脉管" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
