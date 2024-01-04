@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T07:50:03.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="L7k4d16x1reI192BDB5J" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T07:50:54.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kG8fBEcAZ2sanAozGfcu" version="22.1.16" type="github">
   <diagram name="第 1 页" id="SPCY4sjMRmm0NcjuiNyU">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
           <mxGeometry x="544" y="260" width="80" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0-277O36P96OIKh_NpkG-18" value="气血运行正常" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="700" y="190" width="100" height="50" as="geometry" />
+          <mxGeometry x="700" y="175" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
