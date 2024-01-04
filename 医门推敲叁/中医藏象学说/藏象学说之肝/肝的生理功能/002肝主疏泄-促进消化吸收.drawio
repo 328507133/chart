@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T09:00:28.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="B3xU5iEGOOgHHEEEm5g5" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T09:03:27.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="778sN599DI_6D_SJb3Yl" version="22.1.16" type="github">
   <diagram name="第 1 页" id="e5nT0eJJbsJMDa9VYoj3">
     <mxGraphModel dx="1877" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
         <mxCell id="2lriUHaFM1LSnirkUohK-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2lriUHaFM1LSnirkUohK-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="280" as="sourcePoint" />
-            <mxPoint x="370" y="400" as="targetPoint" />
+            <mxPoint x="360" y="370" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="330" />
             </Array>
@@ -88,6 +88,12 @@
         </mxCell>
         <mxCell id="2lriUHaFM1LSnirkUohK-32" value="喛气、脘脴、呕恶、纳差" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="440" y="430" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2lriUHaFM1LSnirkUohK-33" value="肝气不升" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="340" y="490" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2lriUHaFM1LSnirkUohK-34" value="腹胀、便溏等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="447" y="505" width="93" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
