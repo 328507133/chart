@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T08:44:47.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="m1Hd2cMe0Rvk8mhKtCrE" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T08:45:20.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ects1_QSSa-4DxVAzSIo" version="22.1.16" type="github">
   <diagram name="第 1 页" id="e5nT0eJJbsJMDa9VYoj3">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
             <mxPoint x="230" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2lriUHaFM1LSnirkUohK-23" value="协调气机升降" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="2lriUHaFM1LSnirkUohK-22">
+        <mxCell id="2lriUHaFM1LSnirkUohK-23" value="协调气机升降" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#FF3333;" vertex="1" connectable="0" parent="2lriUHaFM1LSnirkUohK-22">
           <mxGeometry x="-0.144" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
