@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T08:39:09.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zvtTAauCHBoTJ9LbAELV" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T08:42:01.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_kTZGFil04qCpvhkNnUm" version="22.1.16" type="github">
   <diagram name="第 1 页" id="wuVD9QrXgqFsynZhE4xT">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,8 +82,8 @@
             <mxPoint x="-7" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aYS5a1OjMAegnJL1szjv-50" value="帮助脾胃消化吸收" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="490" y="330" width="130" height="20" as="geometry" />
+        <mxCell id="aYS5a1OjMAegnJL1szjv-50" value="帮助脾胃消化吸收" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="441" y="320" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aYS5a1OjMAegnJL1szjv-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aYS5a1OjMAegnJL1szjv-29" target="aYS5a1OjMAegnJL1szjv-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -93,6 +93,17 @@
         </mxCell>
         <mxCell id="aYS5a1OjMAegnJL1szjv-52" value="正常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0066CC;" vertex="1" connectable="0" parent="aYS5a1OjMAegnJL1szjv-51">
           <mxGeometry x="-0.0569" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYS5a1OjMAegnJL1szjv-53" value="脾胃消化吸收障碍：胁痛、口苦、纳食不化、黄疸等" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="336.5" y="480" width="339" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aYS5a1OjMAegnJL1szjv-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aYS5a1OjMAegnJL1szjv-29" target="aYS5a1OjMAegnJL1szjv-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYS5a1OjMAegnJL1szjv-55" value="异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#FF3333;" vertex="1" connectable="0" parent="aYS5a1OjMAegnJL1szjv-54">
+          <mxGeometry y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
