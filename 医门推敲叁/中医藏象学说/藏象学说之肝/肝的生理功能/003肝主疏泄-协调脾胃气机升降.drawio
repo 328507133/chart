@@ -1,18 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T08:25:40.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="N6HwLeSg4X8t68BP_bRb" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T08:26:37.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QD-8aiYgop_IiBlrgFNm" version="22.1.16" type="github">
   <diagram name="第 1 页" id="wuVD9QrXgqFsynZhE4xT">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aYS5a1OjMAegnJL1szjv-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="136" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aYS5a1OjMAegnJL1szjv-8" value="肝" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="70" y="106" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aYS5a1OjMAegnJL1szjv-12" value="肝之余气" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="80" y="146" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="aYS5a1OjMAegnJL1szjv-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="100" height="60" as="geometry" />
         </mxCell>
@@ -21,12 +12,6 @@
         </mxCell>
         <mxCell id="aYS5a1OjMAegnJL1szjv-9" value="胆汁" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="250" y="210" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aYS5a1OjMAegnJL1szjv-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aYS5a1OjMAegnJL1szjv-12" target="aYS5a1OjMAegnJL1szjv-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="170" as="sourcePoint" />
-            <mxPoint x="200" y="120" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="aYS5a1OjMAegnJL1szjv-30" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="280" y="300" width="110" height="100" as="geometry" />
@@ -49,6 +34,24 @@
         <mxCell id="aYS5a1OjMAegnJL1szjv-23" value="经过胆道" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="aYS5a1OjMAegnJL1szjv-18">
           <mxGeometry x="0.0117" y="-1" relative="1" as="geometry">
             <mxPoint x="-7" y="-29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYS5a1OjMAegnJL1szjv-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="106" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aYS5a1OjMAegnJL1szjv-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aYS5a1OjMAegnJL1szjv-31">
+          <mxGeometry y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYS5a1OjMAegnJL1szjv-8" value="肝" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="aYS5a1OjMAegnJL1szjv-31">
+          <mxGeometry x="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aYS5a1OjMAegnJL1szjv-12" value="肝之余气" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="aYS5a1OjMAegnJL1szjv-31">
+          <mxGeometry x="20" y="40" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aYS5a1OjMAegnJL1szjv-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aYS5a1OjMAegnJL1szjv-12" target="aYS5a1OjMAegnJL1szjv-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="170" as="sourcePoint" />
+            <mxPoint x="200" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
