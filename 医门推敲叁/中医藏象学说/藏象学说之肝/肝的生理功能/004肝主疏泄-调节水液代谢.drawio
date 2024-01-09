@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T09:01:11.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6j3c_eNQ0IPMWUylL6r2" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T09:03:09.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="91iS1UKCvpbRZqQxsu8E" version="22.1.16" type="github">
   <diagram name="第 1 页" id="4uQxlcdzISgn30B2jAEv">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="380" y="240" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wd8hu2n2XhvFOHBbUntu-6" value="肝" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="111" y="158" width="76" height="40" as="geometry" />
+          <mxGeometry x="60" y="160" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wd8hu2n2XhvFOHBbUntu-8" value="水液代谢" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="332" y="50" width="60" height="30" as="geometry" />
@@ -25,11 +25,31 @@
         <mxCell id="Wd8hu2n2XhvFOHBbUntu-9" value="布散水精" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="95" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wd8hu2n2XhvFOHBbUntu-10" value="布散水精" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Wd8hu2n2XhvFOHBbUntu-10" value="运化水湿" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="443" y="174" width="59" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wd8hu2n2XhvFOHBbUntu-11" value="布散水精" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Wd8hu2n2XhvFOHBbUntu-11" value="分化水液" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="445" y="246" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wd8hu2n2XhvFOHBbUntu-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wd8hu2n2XhvFOHBbUntu-13" target="Wd8hu2n2XhvFOHBbUntu-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="190" as="sourcePoint" />
+            <mxPoint x="230" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wd8hu2n2XhvFOHBbUntu-15" value="调畅三焦气机" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Wd8hu2n2XhvFOHBbUntu-12">
+          <mxGeometry x="-0.2549" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wd8hu2n2XhvFOHBbUntu-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wd8hu2n2XhvFOHBbUntu-6" target="Wd8hu2n2XhvFOHBbUntu-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="187" y="181" as="sourcePoint" />
+            <mxPoint x="332" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wd8hu2n2XhvFOHBbUntu-13" value="主疏泄" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="165" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
