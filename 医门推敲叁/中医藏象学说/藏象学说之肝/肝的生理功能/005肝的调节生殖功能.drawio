@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T03:27:13.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4JXUHD954WvdtH7kFWH7" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T03:36:49.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_Hl7fSmUpGQ19PRUTlBf" version="22.1.17" type="github">
   <diagram name="第 1 页" id="AgoYypZzx3hxxHUh2Zet">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,14 +76,14 @@
         <mxCell id="wE4b-NW_SzXMXIwF-MCA-22" value="带下分泌正常" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wE4b-NW_SzXMXIwF-MCA-20">
           <mxGeometry y="60" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wE4b-NW_SzXMXIwF-MCA-23" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wE4b-NW_SzXMXIwF-MCA-20">
+        <mxCell id="wE4b-NW_SzXMXIwF-MCA-23" value="精室开阖有度" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wE4b-NW_SzXMXIwF-MCA-20">
           <mxGeometry y="90" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wE4b-NW_SzXMXIwF-MCA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wE4b-NW_SzXMXIwF-MCA-21" target="wE4b-NW_SzXMXIwF-MCA-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wE4b-NW_SzXMXIwF-MCA-25" value="肝失疏泄" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="340" width="140" height="120" as="geometry" />
+        <mxCell id="wE4b-NW_SzXMXIwF-MCA-25" value="冲任二脉" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wE4b-NW_SzXMXIwF-MCA-26" value="月经异常" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wE4b-NW_SzXMXIwF-MCA-25">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wE4b-NW_SzXMXIwF-MCA-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="189" y="384.5" width="180" height="41" as="geometry" />
+          <mxGeometry x="170" y="480" width="180" height="41" as="geometry" />
         </mxCell>
         <mxCell id="wE4b-NW_SzXMXIwF-MCA-33" value="肝失疏泄" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="wE4b-NW_SzXMXIwF-MCA-32">
           <mxGeometry x="6" width="100" height="41" as="geometry" />
@@ -103,10 +103,27 @@
         <mxCell id="wE4b-NW_SzXMXIwF-MCA-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="wE4b-NW_SzXMXIwF-MCA-32">
           <mxGeometry width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="wE4b-NW_SzXMXIwF-MCA-35" value="冲任失调" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wE4b-NW_SzXMXIwF-MCA-32">
-          <mxGeometry x="100" y="5.5" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="wE4b-NW_SzXMXIwF-MCA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wE4b-NW_SzXMXIwF-MCA-35" target="wE4b-NW_SzXMXIwF-MCA-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wE4b-NW_SzXMXIwF-MCA-38" value="精室" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="440" width="205" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wE4b-NW_SzXMXIwF-MCA-39" value="不及：性欲低下、阳痿、精少不有" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wE4b-NW_SzXMXIwF-MCA-38">
+          <mxGeometry y="30" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wE4b-NW_SzXMXIwF-MCA-40" value="太过：性欲亢盛、阳强、遗精" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wE4b-NW_SzXMXIwF-MCA-38">
+          <mxGeometry y="60" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wE4b-NW_SzXMXIwF-MCA-35" value="冲任失调" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wE4b-NW_SzXMXIwF-MCA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wE4b-NW_SzXMXIwF-MCA-33" target="wE4b-NW_SzXMXIwF-MCA-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wE4b-NW_SzXMXIwF-MCA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wE4b-NW_SzXMXIwF-MCA-33" target="wE4b-NW_SzXMXIwF-MCA-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
