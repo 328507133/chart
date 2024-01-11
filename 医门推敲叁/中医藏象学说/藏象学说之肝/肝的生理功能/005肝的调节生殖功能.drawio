@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T03:36:49.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_Hl7fSmUpGQ19PRUTlBf" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T03:37:56.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-uOMKDTewofKPcD3v3hY" version="22.1.17" type="github">
   <diagram name="第 1 页" id="AgoYypZzx3hxxHUh2Zet">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wE4b-NW_SzXMXIwF-MCA-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="170" y="480" width="180" height="41" as="geometry" />
+          <mxGeometry x="170" y="484" width="180" height="41" as="geometry" />
         </mxCell>
         <mxCell id="wE4b-NW_SzXMXIwF-MCA-33" value="肝失疏泄" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="wE4b-NW_SzXMXIwF-MCA-32">
           <mxGeometry x="6" width="100" height="41" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wE4b-NW_SzXMXIwF-MCA-38" value="精室" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="440" width="205" height="90" as="geometry" />
+          <mxGeometry x="495" y="440" width="205" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wE4b-NW_SzXMXIwF-MCA-39" value="不及：性欲低下、阳痿、精少不有" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wE4b-NW_SzXMXIwF-MCA-38">
           <mxGeometry y="30" width="205" height="30" as="geometry" />
@@ -123,8 +123,17 @@
             <mxPoint x="360" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wE4b-NW_SzXMXIwF-MCA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wE4b-NW_SzXMXIwF-MCA-33" target="wE4b-NW_SzXMXIwF-MCA-40">
+        <mxCell id="wE4b-NW_SzXMXIwF-MCA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wE4b-NW_SzXMXIwF-MCA-44" target="wE4b-NW_SzXMXIwF-MCA-40">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wE4b-NW_SzXMXIwF-MCA-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wE4b-NW_SzXMXIwF-MCA-33" target="wE4b-NW_SzXMXIwF-MCA-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="276" y="511" as="sourcePoint" />
+            <mxPoint x="435" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wE4b-NW_SzXMXIwF-MCA-44" value="精液疏泄失度" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
