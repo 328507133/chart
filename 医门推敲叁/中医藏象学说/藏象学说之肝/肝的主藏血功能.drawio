@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T07:23:49.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7S473hxC1uRpk5YFfuGT" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T07:27:24.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cQgWxYNjwQ88jkDsBF9J" version="22.1.17" type="github">
   <diagram name="第 1 页" id="JK6JBXOP9RQf0usXEJeH">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="kIAk1iYzoB-Qb-6D6KU0-70" value="血虚生风" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="kIAk1iYzoB-Qb-6D6KU0-67">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kIAk1iYzoB-Qb-6D6KU0-73" value="肝藏血-储存血液" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="75" width="120" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
