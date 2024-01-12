@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T07:47:26.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.17" etag="m-O5yKJaePmVL9Qwq1_y" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T08:26:01.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="41MCZW-xI9NBCKjBVCc0" version="22.1.17" type="github">
   <diagram name="第 1 页" id="3Mf6Y7iWbjxPkOdfO2dG">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-5" value="肝阴主凝" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="155" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-6" value="潜肝阳" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PQyKcEI7YhLgmK-D_kbS-5">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-7" value="疑血功能" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PQyKcEI7YhLgmK-D_kbS-5">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-2" value="肝" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="90" y="158" width="76" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQyKcEI7YhLgmK-D_kbS-2" target="PQyKcEI7YhLgmK-D_kbS-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="207" y="171" as="sourcePoint" />
+            <mxPoint x="140" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="290" width="290" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-10" value="肝不藏血病机" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="PQyKcEI7YhLgmK-D_kbS-9">
+          <mxGeometry x="10" width="280" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-11" value="" style="group;fontSize=13;align=left;" vertex="1" connectable="0" parent="PQyKcEI7YhLgmK-D_kbS-10">
+          <mxGeometry y="30" width="280" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-12" value="" style="group" vertex="1" connectable="0" parent="PQyKcEI7YhLgmK-D_kbS-11">
+          <mxGeometry x="6" width="244" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-13" value="肝气虚弱，收摄无力" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="PQyKcEI7YhLgmK-D_kbS-12">
+          <mxGeometry width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-15" value="" style="group;fontSize=13;align=left;" vertex="1" connectable="0" parent="PQyKcEI7YhLgmK-D_kbS-11">
+          <mxGeometry y="50" width="280" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-16" value="肝阴不足，肝阳上亢" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="PQyKcEI7YhLgmK-D_kbS-15">
+          <mxGeometry x="7.636363636363637" width="127.27272727272727" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-17" value="脑溢血" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="PQyKcEI7YhLgmK-D_kbS-15">
+          <mxGeometry x="127.27272727272727" y="5.5" width="152.72727272727272" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQyKcEI7YhLgmK-D_kbS-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fontColor=#ffffff;fillColor=#d80073;strokeColor=#A50040;" vertex="1" parent="PQyKcEI7YhLgmK-D_kbS-9">
+          <mxGeometry width="10" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
