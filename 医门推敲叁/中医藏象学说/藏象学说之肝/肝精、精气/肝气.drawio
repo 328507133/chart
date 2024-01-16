@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T11:23:14.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mgki89Fwl7k0p2mrn8UU" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T11:24:56.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gg2xfSw-rZxwQB_lweCh" version="22.1.17" type="github">
   <diagram name="第 1 页" id="DiqK2zHsX7JkeJQSn5oS">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,37 +38,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CABZNRvn-cbEBmHOcwjS-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="434" y="320" width="350" height="131" as="geometry" />
+          <mxGeometry x="434" y="320" width="350.0015384615385" height="180" as="geometry" />
         </mxCell>
         <mxCell id="CABZNRvn-cbEBmHOcwjS-11" value="肝气疏泄失常" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-10">
-          <mxGeometry x="13.46153846153846" width="336.5384615384616" height="131" as="geometry" />
+          <mxGeometry x="13.46153846153846" width="160" height="209.70188118811882" as="geometry" />
         </mxCell>
-        <mxCell id="CABZNRvn-cbEBmHOcwjS-12" value="" style="group;fontSize=13;align=left;" vertex="1" connectable="0" parent="CABZNRvn-cbEBmHOcwjS-11">
-          <mxGeometry y="30" width="336.5384615384616" height="101" as="geometry" />
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-40" value="" style="group" vertex="1" connectable="0" parent="CABZNRvn-cbEBmHOcwjS-11">
+          <mxGeometry y="30" width="160" height="59.4059405940594" as="geometry" />
         </mxCell>
-        <mxCell id="CABZNRvn-cbEBmHOcwjS-13" value="" style="group" vertex="1" connectable="0" parent="CABZNRvn-cbEBmHOcwjS-12">
-          <mxGeometry x="8.076923076923077" width="328.46153846153845" height="40" as="geometry" />
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-41" value="疏泄不及（肝气郁结）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-40">
+          <mxGeometry width="153.48740186915882" height="59.4059405940594" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-42" value="胸闷痞满、郁郁不乐、经期乳房胀痛或梅核气，脉弦细等" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-40">
+          <mxGeometry x="144.27815775700927" y="7.969089591886017" width="184.1848822429906" height="43.46776141028737" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-13" value="" style="group" vertex="1" connectable="0" parent="CABZNRvn-cbEBmHOcwjS-11">
+          <mxGeometry y="89.4059405940594" width="160" height="59.4059405940594" as="geometry" />
         </mxCell>
         <mxCell id="CABZNRvn-cbEBmHOcwjS-14" value="疏泄不及（肝气郁结）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-13">
-          <mxGeometry width="153.48670021567216" height="40" as="geometry" />
+          <mxGeometry width="153.48740186915882" height="59.4059405940594" as="geometry" />
         </mxCell>
         <mxCell id="CABZNRvn-cbEBmHOcwjS-15" value="胸闷痞满、郁郁不乐、经期乳房胀痛或梅核气，脉弦细等" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-13">
-          <mxGeometry x="144.2774982027318" y="5.365853658536585" width="184.1840402588066" height="29.26829268292683" as="geometry" />
+          <mxGeometry x="144.27815775700927" y="7.969089591886017" width="184.1848822429906" height="43.46776141028737" as="geometry" />
         </mxCell>
-        <mxCell id="CABZNRvn-cbEBmHOcwjS-16" value="" style="group;fontSize=13;align=left;" vertex="1" connectable="0" parent="CABZNRvn-cbEBmHOcwjS-12">
-          <mxGeometry y="50" width="336.5384615384616" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="CABZNRvn-cbEBmHOcwjS-17" value="疏泄太过，肝气犯胃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-16">
-          <mxGeometry x="9.178321678321678" width="152.97202797202797" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="CABZNRvn-cbEBmHOcwjS-18" value="头目胀痛、头错目胀、心烦意乱、面红耳赤" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-16">
-          <mxGeometry x="152.97202797202797" y="5.5" width="183.56643356643357" height="30" as="geometry" />
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-17" value="疏泄太过，肝气犯胃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-11">
+          <mxGeometry y="148.8118811881188" width="160" height="60.89" as="geometry" />
         </mxCell>
         <mxCell id="CABZNRvn-cbEBmHOcwjS-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fontColor=#ffffff;fillColor=#d80073;strokeColor=#A50040;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-10">
           <mxGeometry width="13.46153846153846" height="10" as="geometry" />
         </mxCell>
         <mxCell id="CABZNRvn-cbEBmHOcwjS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CABZNRvn-cbEBmHOcwjS-4" target="CABZNRvn-cbEBmHOcwjS-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-18" value="头目胀痛、头错目胀、心烦意乱、面红耳赤" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="590.0015384615384" y="480.0018811881189" width="160" height="44.554455445544555" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
