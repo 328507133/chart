@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T12:33:20.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DrW97npBr5uDARooDEev" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T12:34:29.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uA3evqKEvm2kH7ZwMAq_" version="22.1.17" type="github">
   <diagram name="第 1 页" id="xqMwd2NSLPn6VQPM8lrx">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,10 +53,10 @@
           <mxGeometry x="460" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-x6zuqcDCInKtSSKQxM8-15" value="饮食化为水谷精微" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="590" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="590" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-x6zuqcDCInKtSSKQxM8-16" value="水谷精微吸收及向全身输送" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="590" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="590" y="140" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
