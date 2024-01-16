@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T11:14:29.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Xt2g29MTPOsoPjeM7Sgl" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T11:18:38.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Bn3rBxHu503ZJxezZ7yb" version="22.1.17" type="github">
   <diagram name="第 1 页" id="DiqK2zHsX7JkeJQSn5oS">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,21 @@
         </mxCell>
         <mxCell id="CABZNRvn-cbEBmHOcwjS-4" value="由肝精所化" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-1">
           <mxGeometry x="60" y="5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-5" value="肝气功能" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-6" value="调畅全身气机" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-5">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-7" value="促进血液和津液运行输布" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-5">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-8" value="促进食物消化" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-5">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CABZNRvn-cbEBmHOcwjS-4" target="CABZNRvn-cbEBmHOcwjS-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
