@@ -1,112 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T08:12:11.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FFgBO_7H5ymN1aZMBTbN" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T09:28:31.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7hB772R_VdwG0iheuIyu" version="22.1.17" type="github">
   <diagram name="第 1 页" id="SPCY4sjMRmm0NcjuiNyU">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0-277O36P96OIKh_NpkG-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="501.5" y="370" width="151" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0-277O36P96OIKh_NpkG-29" target="0-277O36P96OIKh_NpkG-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="514" y="445" width="126" height="245" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-1" value="调畅情志" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="0-277O36P96OIKh_NpkG-1" value="肝精" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="220" y="160" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0-277O36P96OIKh_NpkG-2" target="0-277O36P96OIKh_NpkG-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-17" value="气机调畅" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="0-277O36P96OIKh_NpkG-15">
-          <mxGeometry x="-0.1444" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0-277O36P96OIKh_NpkG-2" target="0-277O36P96OIKh_NpkG-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="580" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="363" />
-              <mxPoint x="440" y="530" />
-              <mxPoint x="502" y="530" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-22" value="气机失调" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="0-277O36P96OIKh_NpkG-21">
-          <mxGeometry x="0.0205" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-2" value="气机" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="320" y="320" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-4" value="肝" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="140" y="320" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0-277O36P96OIKh_NpkG-2" target="0-277O36P96OIKh_NpkG-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="240" as="sourcePoint" />
-            <mxPoint x="450" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0-277O36P96OIKh_NpkG-1" target="0-277O36P96OIKh_NpkG-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="150" as="sourcePoint" />
-            <mxPoint x="430" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0-277O36P96OIKh_NpkG-4" target="0-277O36P96OIKh_NpkG-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="325" as="sourcePoint" />
-            <mxPoint x="280" y="275" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0-277O36P96OIKh_NpkG-12" target="0-277O36P96OIKh_NpkG-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="80" width="128" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-5" value="心主血脉" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="544" y="91" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-6" value="肺助心行血" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="544" y="147" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-7" value="脾统血" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="544" y="201" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-8" value="肝藏血" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="544" y="260" width="80" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-18" value="气血运行正常" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="700" y="175" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0-277O36P96OIKh_NpkG-20" target="0-277O36P96OIKh_NpkG-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-20" value="气机阻滞" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="524" y="380" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-23" value="气滞血瘀" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="670" y="380" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-25" value="气机紊乱" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="524" y="450" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-26" value="气逆于上" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="524" y="510" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-27" value="血随气逆" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="524" y="570" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-28" value="气陷于下" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="524" y="630" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0-277O36P96OIKh_NpkG-30" value="血随气泄" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="680" y="542.5" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
