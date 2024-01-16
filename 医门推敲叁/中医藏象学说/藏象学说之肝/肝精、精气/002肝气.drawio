@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2024-01-16T11:28:24.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tn2dTttlUfIKHA8ae0s7" version="22.1.17" type="github">
+  <diagram name="第 1 页" id="DiqK2zHsX7JkeJQSn5oS">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="154" y="220" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-2" value="肝气" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-1">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="CABZNRvn-cbEBmHOcwjS-1" source="CABZNRvn-cbEBmHOcwjS-2" target="CABZNRvn-cbEBmHOcwjS-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="127" y="21" as="sourcePoint" />
+            <mxPoint x="272" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-4" value="由肝精所化" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-1">
+          <mxGeometry x="60" y="5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-5" value="肝气功能（肝精的表现）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="444" y="100" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-6" value="调畅全身气机" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-5">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-7" value="促进血液和津液运行输布" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-5">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-20" value="促进食物消化" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-5">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-8" value="促进胆汁的分泌和排泄" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-5">
+          <mxGeometry y="120" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CABZNRvn-cbEBmHOcwjS-4" target="CABZNRvn-cbEBmHOcwjS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="434" y="277" width="350.0015384615385" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-11" value="肝气疏泄失常" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-10">
+          <mxGeometry x="13.46153846153846" width="160" height="209.70188118811882" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-40" value="" style="group" vertex="1" connectable="0" parent="CABZNRvn-cbEBmHOcwjS-11">
+          <mxGeometry y="30" width="160" height="59.4059405940594" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-41" value="疏泄不及（肝气郁结）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-40">
+          <mxGeometry width="153.48740186915882" height="59.4059405940594" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-42" value="胸闷痞满、郁郁不乐、经期乳房胀痛或梅核气，脉弦细等" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-40">
+          <mxGeometry x="144.27815775700927" y="7.969089591886017" width="184.1848822429906" height="43.46776141028737" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-13" value="" style="group" vertex="1" connectable="0" parent="CABZNRvn-cbEBmHOcwjS-11">
+          <mxGeometry y="89.4059405940594" width="160" height="59.4059405940594" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-14" value="疏泄不及（肝气郁结）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-13">
+          <mxGeometry width="153.48740186915882" height="59.4059405940594" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-15" value="胸闷痞满、郁郁不乐、经期乳房胀痛或梅核气，脉弦细等" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-13">
+          <mxGeometry x="144.27815775700927" y="7.969089591886017" width="184.1848822429906" height="43.46776141028737" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-17" value="肝气虚弱，疏泄失职" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-11">
+          <mxGeometry y="148.8118811881188" width="160" height="60.89" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fontColor=#ffffff;fillColor=#d80073;strokeColor=#A50040;" vertex="1" parent="CABZNRvn-cbEBmHOcwjS-10">
+          <mxGeometry width="13.46153846153846" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CABZNRvn-cbEBmHOcwjS-4" target="CABZNRvn-cbEBmHOcwjS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CABZNRvn-cbEBmHOcwjS-18" value="忧郁胆怯、倦怠乏力、两胁虚闷、不得太息、脉细弱" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="590" y="437" width="190" height="44.55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
