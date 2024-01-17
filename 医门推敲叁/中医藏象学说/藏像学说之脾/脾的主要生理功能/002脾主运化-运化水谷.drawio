@@ -1,9 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T12:01:09.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.18" etag="ue6j-frFVdBjkHUviZEX" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T12:01:30.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5mNLbEBNOYapBYWK08rU" version="22.1.18" type="github">
   <diagram name="第 1 页" id="JhgUISf35zdRz3nEGEj2">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sTzPc5hi735QVr57hyQO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="280" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sTzPc5hi735QVr57hyQO-6" target="sTzPc5hi735QVr57hyQO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-3" value="吸收" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="sTzPc5hi735QVr57hyQO-2">
+          <mxGeometry x="-0.0689" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sTzPc5hi735QVr57hyQO-6" target="sTzPc5hi735QVr57hyQO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-5" value="1.2散精于全身" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="sTzPc5hi735QVr57hyQO-4">
+          <mxGeometry x="0.0017" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-6" value="脾" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="570" y="532" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="400" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-8" value="脾气气化&lt;br&gt;脾阳温煦" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sTzPc5hi735QVr57hyQO-10" target="sTzPc5hi735QVr57hyQO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-10" value="胃" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-11" value="小肠" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="535" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-12" value="1、胃受纳和腐熟" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="456" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-13" value="2、受盛化物，进一步消化，分解成水谷精微和糟粕" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="281" y="547.5" width="180" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-14" value="化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#CC0000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;水谷精微&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="465" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="477" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="477" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="517" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="486" width="10" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="517" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-21" value="肺" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sTzPc5hi735QVr57hyQO-6" target="sTzPc5hi735QVr57hyQO-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="540" as="sourcePoint" />
+            <mxPoint x="680" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-23" value="1.1、上传水谷精微于肺（升清）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="sTzPc5hi735QVr57hyQO-22">
+          <mxGeometry x="0.083" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-24" value="全身" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="550" y="640" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-25" value="运" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#CC0000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="465" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTzPc5hi735QVr57hyQO-26" value="运化水谷" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
