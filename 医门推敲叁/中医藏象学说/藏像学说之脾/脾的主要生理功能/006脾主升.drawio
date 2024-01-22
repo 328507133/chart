@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T09:32:42.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tn1n0sI54sYGrrJIKr0l" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T09:33:47.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bswVNrFawmyyYqEid1qP" version="22.1.20" type="github">
   <diagram name="第 1 页" id="buYK50_n-58TJnyxpLri">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,21 +66,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j9wXNBpga4At5Q3Up0xu-22" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="550" y="260" width="170" height="90" as="geometry" />
+          <mxGeometry x="550" y="260" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="j9wXNBpga4At5Q3Up0xu-23" value="升清作用失常" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j9wXNBpga4At5Q3Up0xu-22">
-          <mxGeometry x="10" width="160" height="90" as="geometry">
+          <mxGeometry x="14.11764705882353" width="225.8823529411765" height="120" as="geometry">
             <mxRectangle x="510" y="120" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j9wXNBpga4At5Q3Up0xu-24" value="水谷精微运行失常" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j9wXNBpga4At5Q3Up0xu-23">
-          <mxGeometry y="30" width="160" height="30" as="geometry" />
+          <mxGeometry y="30" width="225.8823529411765" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j9wXNBpga4At5Q3Up0xu-25" value="气血输布障碍" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j9wXNBpga4At5Q3Up0xu-23">
-          <mxGeometry y="60" width="160" height="30" as="geometry" />
+          <mxGeometry y="60" width="225.8823529411765" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-34" value="脾不升清，胃不䧏浊，眩晕、头晕" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="j9wXNBpga4At5Q3Up0xu-23">
+          <mxGeometry y="90" width="225.8823529411765" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j9wXNBpga4At5Q3Up0xu-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="j9wXNBpga4At5Q3Up0xu-22">
-          <mxGeometry width="10" height="10" as="geometry" />
+          <mxGeometry width="14.11764705882353" height="10" as="geometry" />
         </mxCell>
         <mxCell id="j9wXNBpga4At5Q3Up0xu-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="80" width="240" height="140" as="geometry" />
