@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T09:21:32.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6X9VQQC3l9F_o05i2Zkw" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T09:26:25.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="B68cBAjhq6Xm8xUSizl9" version="22.1.20" type="github">
   <diagram name="第 1 页" id="buYK50_n-58TJnyxpLri">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,7 +83,30 @@
           <mxGeometry width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="j9wXNBpga4At5Q3Up0xu-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="90" width="240" height="140" as="geometry" />
+          <mxGeometry x="540" y="80" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-28" value="脏腑" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-29" value="经络" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="100" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-30" value="形体" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-31" value="官窍" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="160" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="j9wXNBpga4At5Q3Up0xu-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="150" as="sourcePoint" />
+            <mxPoint x="430" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-33" value="输送全身，滋润濡养" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="j9wXNBpga4At5Q3Up0xu-32">
+          <mxGeometry x="-0.3275" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" y="-26" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
