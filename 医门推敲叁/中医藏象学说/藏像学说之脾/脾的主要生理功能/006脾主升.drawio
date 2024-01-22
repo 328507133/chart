@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T09:49:49.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yRWTQDVYdDqSosPGcImn" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T09:50:42.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FqKULEb9N7UVxEJKln_T" version="22.1.20" type="github">
   <diagram name="第 1 页" id="buYK50_n-58TJnyxpLri">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,6 +127,27 @@
         </mxCell>
         <mxCell id="j9wXNBpga4At5Q3Up0xu-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="545.88" y="480" width="14.11764705882353" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-45" value="脾" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="j9wXNBpga4At5Q3Up0xu-44">
+          <mxGeometry width="76" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="j9wXNBpga4At5Q3Up0xu-44" source="j9wXNBpga4At5Q3Up0xu-45" target="j9wXNBpga4At5Q3Up0xu-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="127" y="21" as="sourcePoint" />
+            <mxPoint x="272" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-47" value="主升举" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="j9wXNBpga4At5Q3Up0xu-44">
+          <mxGeometry x="60" y="5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-52" value="内脏" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="475" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j9wXNBpga4At5Q3Up0xu-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j9wXNBpga4At5Q3Up0xu-47" target="j9wXNBpga4At5Q3Up0xu-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
