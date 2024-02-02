@@ -1,33 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T03:46:07.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uDYKneukhLov_8uhJKvO" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T06:20:16.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="L5BDSMy6PFDyoL5cL3Jm" version="23.0.1" type="github">
   <diagram name="第 1 页" id="FHnEtHlPCikIFntmFjx9">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k00a9VnEO8OqxWAt4sLT-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k00a9VnEO8OqxWAt4sLT-73" target="k00a9VnEO8OqxWAt4sLT-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k00a9VnEO8OqxWAt4sLT-75" value="物质基础" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="k00a9VnEO8OqxWAt4sLT-74">
+          <mxGeometry x="-0.1818" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k00a9VnEO8OqxWAt4sLT-73" value="脾精" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="271" y="450" width="59" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-65" value="脾精" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="389" y="390" width="59" height="30" as="geometry" />
+          <mxGeometry x="269" y="381" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-61" value="脾精" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="270" y="301" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-51" value="脾精" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="388" y="70" width="60" height="30" as="geometry" />
+          <mxGeometry x="268" y="61" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-54" value="脾精" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="388" y="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="268" y="131" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-57" value="脾精" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="225" width="60" height="30" as="geometry" />
+          <mxGeometry x="270" y="216" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="211" width="120" height="140" as="geometry" />
+          <mxGeometry x="30" y="202" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-10" value="脾" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="130" y="211" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="202" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="k00a9VnEO8OqxWAt4sLT-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="288" y="301" as="sourcePoint" />
+            <mxPoint x="168" y="292" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-14" value="物质基础" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="k00a9VnEO8OqxWAt4sLT-13">
@@ -36,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="250" y="301" width="120" height="40" as="geometry" />
+          <mxGeometry x="130" y="292" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-16" value="脾精" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="k00a9VnEO8OqxWAt4sLT-15">
           <mxGeometry width="76" height="40" as="geometry" />
@@ -52,38 +63,38 @@
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k00a9VnEO8OqxWAt4sLT-2" target="k00a9VnEO8OqxWAt4sLT-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="384" y="240" as="targetPoint" />
+            <mxPoint x="264" y="231" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="368" y="240" />
-              <mxPoint x="368" y="241" />
+              <mxPoint x="248" y="231" />
+              <mxPoint x="248" y="232" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-2" value="脾的功能" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="250" y="221" width="76" height="40" as="geometry" />
+          <mxGeometry x="130" y="212" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-21" value="五脏" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="550" y="133" width="76" height="44" as="geometry" />
+          <mxGeometry x="430" y="124" width="76" height="44" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-26" value="藏精" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="138" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="129" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-27" value="化营化血" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="550" y="215" width="80" height="50" as="geometry" />
+          <mxGeometry x="430" y="206" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-28" value="化卫化气" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="550" y="300" width="80" height="50" as="geometry" />
+          <mxGeometry x="430" y="291" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-33" value="涎" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="551" y="65" width="80" height="41" as="geometry" />
+          <mxGeometry x="431" y="56" width="80" height="41" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-50" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="59" width="10" height="371" as="geometry" />
+          <mxGeometry x="270" y="66" width="10" height="410" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k00a9VnEO8OqxWAt4sLT-51" target="k00a9VnEO8OqxWAt4sLT-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="80" as="sourcePoint" />
-            <mxPoint x="490" y="30" as="targetPoint" />
+            <mxPoint x="320" y="71" as="sourcePoint" />
+            <mxPoint x="370" y="21" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-53" value="化为" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="k00a9VnEO8OqxWAt4sLT-52">
@@ -116,17 +127,38 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-64" value="肌肉、四肢" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="551" y="380" width="80" height="50" as="geometry" />
+          <mxGeometry x="431" y="371" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k00a9VnEO8OqxWAt4sLT-65">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="405" as="targetPoint" />
+            <mxPoint x="430" y="396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-67" value="濡养" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="k00a9VnEO8OqxWAt4sLT-66">
           <mxGeometry x="-0.0869" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k00a9VnEO8OqxWAt4sLT-68" value="脾精不足" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="580" y="61" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="k00a9VnEO8OqxWAt4sLT-69" value="消瘦" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="k00a9VnEO8OqxWAt4sLT-68">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k00a9VnEO8OqxWAt4sLT-70" value="面色萎黄" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="k00a9VnEO8OqxWAt4sLT-68">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k00a9VnEO8OqxWAt4sLT-76" value="少气乏力" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="k00a9VnEO8OqxWAt4sLT-68">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k00a9VnEO8OqxWAt4sLT-71" value="倦怠神疲" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="k00a9VnEO8OqxWAt4sLT-68">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k00a9VnEO8OqxWAt4sLT-72" value="意、思" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k00a9VnEO8OqxWAt4sLT-79" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="570" y="61" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
