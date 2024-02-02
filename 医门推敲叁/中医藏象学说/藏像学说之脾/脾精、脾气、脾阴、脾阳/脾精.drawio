@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T03:23:46.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pKGF6SYdPC0wax4Xn_ia" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T03:23:54.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Y0S-E3jjs9IwbT1PRMI4" version="23.0.1" type="github">
   <diagram name="第 1 页" id="FHnEtHlPCikIFntmFjx9">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
           <mxGeometry x="250" y="220" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-20" value="脾精" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="192" width="60" height="30" as="geometry" />
+          <mxGeometry x="354" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k00a9VnEO8OqxWAt4sLT-21" value="五脏" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="531" y="157" width="76" height="40" as="geometry" />
