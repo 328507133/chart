@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T09:21:12.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Vk4F7s0SxsjTN8_Q4VAc" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T09:22:00.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="sl_xBcU5dQOG15epl3jq" version="23.1.6" type="github">
   <diagram name="第 1 页" id="1hLsykektizqz7VEqxnx">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="qwoRVTNMz4L9As0gr5nr-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="qwoRVTNMz4L9As0gr5nr-5">
           <mxGeometry x="52.5" y="5" width="20" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="qwoRVTNMz4L9As0gr5nr-13" value="血液" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="qwoRVTNMz4L9As0gr5nr-5">
+          <mxGeometry x="25" y="23" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qwoRVTNMz4L9As0gr5nr-7" value="脉管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="330" y="117" width="60" height="30" as="geometry" />
