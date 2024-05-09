@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T11:32:02.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2jYiF_Sjt5YALz10DhtF" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T11:33:16.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="R9TeroscddW2lgsZgVoo" version="24.3.1" type="github">
   <diagram name="第 1 页" id="LEKH_kKG_Xfu-7bLd4T4">
     <mxGraphModel dx="1114" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             <mxPoint x="89.5" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NtH16s4Asz1sSBzWZuVo-13" value="升发之气" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NtH16s4Asz1sSBzWZuVo-13" value="升发之性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
