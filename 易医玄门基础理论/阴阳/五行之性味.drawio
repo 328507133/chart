@@ -1,23 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T11:27:32.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YABEPvg1avwlsSQSoH_L" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T11:32:02.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2jYiF_Sjt5YALz10DhtF" version="24.3.1" type="github">
   <diagram name="第 1 页" id="LEKH_kKG_Xfu-7bLd4T4">
     <mxGraphModel dx="1114" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NtH16s4Asz1sSBzWZuVo-2" value="金" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NtH16s4Asz1sSBzWZuVo-3" value="金" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="280" y="310" width="80" height="80" as="geometry" />
+        <mxCell id="NtH16s4Asz1sSBzWZuVo-3" value="水" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NtH16s4Asz1sSBzWZuVo-4" value="火" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="80" height="80" as="geometry" />
+          <mxGeometry x="160" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NtH16s4Asz1sSBzWZuVo-5" value="木" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="130" width="80" height="80" as="geometry" />
+          <mxGeometry x="50" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NtH16s4Asz1sSBzWZuVo-6" value="土" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="420" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NtH16s4Asz1sSBzWZuVo-7" value="木曰曲直" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NtH16s4Asz1sSBzWZuVo-8" value="火曰炎上" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NtH16s4Asz1sSBzWZuVo-9" value="土爱稼穑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NtH16s4Asz1sSBzWZuVo-10" value="金曰从革" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NtH16s4Asz1sSBzWZuVo-11" value="水曰润下" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NtH16s4Asz1sSBzWZuVo-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="89.5" y="220" as="sourcePoint" />
+            <mxPoint x="89.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtH16s4Asz1sSBzWZuVo-13" value="升发之气" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
