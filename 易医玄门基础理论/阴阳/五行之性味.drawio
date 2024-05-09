@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T11:38:52.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Py4k_BF68qbEXHeDkwfe" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T11:39:45.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_nbK6nVAbUVYwcOro3ul" version="24.3.1" type="github">
   <diagram name="第 1 页" id="LEKH_kKG_Xfu-7bLd4T4">
     <mxGraphModel dx="1114" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,19 +20,19 @@
           <mxGeometry x="260" y="392" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NtH16s4Asz1sSBzWZuVo-7" value="木曰曲直" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NtH16s4Asz1sSBzWZuVo-8" value="火曰炎上" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="252" y="299" width="60" height="30" as="geometry" />
+          <mxGeometry x="252" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NtH16s4Asz1sSBzWZuVo-9" value="土爱稼穑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="492" width="60" height="30" as="geometry" />
+          <mxGeometry x="270" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NtH16s4Asz1sSBzWZuVo-10" value="金曰从革" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="449" y="492" width="60" height="30" as="geometry" />
+          <mxGeometry x="449" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NtH16s4Asz1sSBzWZuVo-11" value="水曰润下" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NtH16s4Asz1sSBzWZuVo-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,7 +55,7 @@
         <mxCell id="NtH16s4Asz1sSBzWZuVo-16" value="长之气" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NtH16s4Asz1sSBzWZuVo-17" value="长太过则中空，以苦坚" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NtH16s4Asz1sSBzWZuVo-17" value="长太过则中空，以苦坚，味苦" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="240" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
