@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T08:48:40.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xYPpplNkFe1P3-Yuv9dd" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T08:49:32.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="eb52CnSSrU_7xppUAteJ" version="24.3.1" type="github">
   <diagram name="第 1 页" id="7og-IA1jNFmZVuBKEjPt">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry x="360" y="210" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DGDNGRyZbrEtA4cmizZB-21" value="黄" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="485" y="310" width="20" height="20" as="geometry" />
+          <mxGeometry x="480" y="305" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGDNGRyZbrEtA4cmizZB-22" value="白" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="460" y="440" width="30" height="30" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="290" y="450" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGDNGRyZbrEtA4cmizZB-25" value="香" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="480" y="260" width="20" height="20" as="geometry" />
+          <mxGeometry x="475" y="255" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGDNGRyZbrEtA4cmizZB-26" value="臊" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="240" y="260" width="20" height="20" as="geometry" />
@@ -70,20 +70,11 @@
         <mxCell id="DGDNGRyZbrEtA4cmizZB-29" value="腐" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="268" y="405" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DGDNGRyZbrEtA4cmizZB-32" value="香" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="512" y="242" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DGDNGRyZbrEtA4cmizZB-33" value="香" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="270" y="241" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="DGDNGRyZbrEtA4cmizZB-34" value="香" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="307" y="377" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DGDNGRyZbrEtA4cmizZB-35" value="香" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="370" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DGDNGRyZbrEtA4cmizZB-36" value="香" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="390" y="150" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
