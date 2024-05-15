@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T08:41:00.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4qk_PXmnY528PbW7uI8O" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T08:42:16.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="e0hYj4xX4vXA4zi4fjNO" version="24.3.1" type="github">
   <diagram name="第 1 页" id="7og-IA1jNFmZVuBKEjPt">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="DGDNGRyZbrEtA4cmizZB-14" value="水" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="420" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DGDNGRyZbrEtA4cmizZB-19" value="青" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="DGDNGRyZbrEtA4cmizZB-19" value="青" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="245" y="310" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DGDNGRyZbrEtA4cmizZB-20" value="赤" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -54,6 +54,12 @@
         </mxCell>
         <mxCell id="DGDNGRyZbrEtA4cmizZB-23" value="黑" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="290" y="450" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DGDNGRyZbrEtA4cmizZB-25" value="香" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DGDNGRyZbrEtA4cmizZB-26" value="香" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
