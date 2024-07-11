@@ -1,0 +1,158 @@
+<mxfile host="Electron" modified="2024-07-04T11:36:45.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="-9c4qutx0btERx2oQB5B" version="24.6.1" type="device">
+  <diagram name="第 1 页" id="Bk86kTXQLJcc0MfS0U7-">
+    <mxGraphModel dx="533" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-17" value="脾" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="102" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y_7EAWxaNsxT7kLtCPMc-1" target="y_7EAWxaNsxT7kLtCPMc-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-1" value="胃" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="139" y="282" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="y_7EAWxaNsxT7kLtCPMc-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="174" y="142" as="sourcePoint" />
+            <mxPoint x="199" y="162" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="148" y="367" as="sourcePoint" />
+            <mxPoint x="148" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="173.5" y="368" as="sourcePoint" />
+            <mxPoint x="173.5" y="328" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="198" y="367" as="sourcePoint" />
+            <mxPoint x="198" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-6" value="脾阳" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="144" y="342" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-7" value="1.水谷入胃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3333FF;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="80" y="142" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-10" value="心" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-13" value="2.阳化气，浊气归心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3333FF;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="295" y="242" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y_7EAWxaNsxT7kLtCPMc-14" target="y_7EAWxaNsxT7kLtCPMc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-14" value="肺" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="410" y="30" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="y_7EAWxaNsxT7kLtCPMc-10" target="y_7EAWxaNsxT7kLtCPMc-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="170" as="sourcePoint" />
+            <mxPoint x="340" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-19" value="&lt;span style=&quot;color: rgb(0, 127, 255); font-size: 14px;&quot;&gt;3.&amp;nbsp;脾运化后化为雾气，游溢而上&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y_7EAWxaNsxT7kLtCPMc-18">
+          <mxGeometry x="0.4561" y="-1" relative="1" as="geometry">
+            <mxPoint x="-107" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-20" value="脏腑" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="410" y="282" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y_7EAWxaNsxT7kLtCPMc-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-28" value="精" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="y_7EAWxaNsxT7kLtCPMc-25">
+          <mxGeometry x="-0.4912" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y_7EAWxaNsxT7kLtCPMc-24" target="y_7EAWxaNsxT7kLtCPMc-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-29" value="粗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="y_7EAWxaNsxT7kLtCPMc-27">
+          <mxGeometry x="-0.4974" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-24" value="&lt;span style=&quot;color: rgb(0, 127, 255); font-size: 14px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;4.&amp;nbsp;化而为水&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-26" value="膀胱" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="278.5" width="70" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y_7EAWxaNsxT7kLtCPMc-31" target="y_7EAWxaNsxT7kLtCPMc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-31" value="三焦之火秘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-32" value="上温脾胃而水道通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="440" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="y_7EAWxaNsxT7kLtCPMc-40" source="y_7EAWxaNsxT7kLtCPMc-35" target="y_7EAWxaNsxT7kLtCPMc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-35" value="三焦之火泄" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="y_7EAWxaNsxT7kLtCPMc-40">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-36" value="下降膀胱而水窍闭" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="y_7EAWxaNsxT7kLtCPMc-40">
+          <mxGeometry x="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y_7EAWxaNsxT7kLtCPMc-40">
+          <mxGeometry x="80" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="486" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="y_7EAWxaNsxT7kLtCPMc-41" source="y_7EAWxaNsxT7kLtCPMc-43" target="y_7EAWxaNsxT7kLtCPMc-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-43" value="三焦实" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="y_7EAWxaNsxT7kLtCPMc-41">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-44" value="则闭癃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="y_7EAWxaNsxT7kLtCPMc-41">
+          <mxGeometry x="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y_7EAWxaNsxT7kLtCPMc-41">
+          <mxGeometry x="80" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="91" y="529" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="y_7EAWxaNsxT7kLtCPMc-46" source="y_7EAWxaNsxT7kLtCPMc-48" target="y_7EAWxaNsxT7kLtCPMc-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-48" value="三焦虚" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="y_7EAWxaNsxT7kLtCPMc-46">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-49" value="则遗溺" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="y_7EAWxaNsxT7kLtCPMc-46">
+          <mxGeometry x="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_7EAWxaNsxT7kLtCPMc-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="y_7EAWxaNsxT7kLtCPMc-46">
+          <mxGeometry x="80" width="10" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

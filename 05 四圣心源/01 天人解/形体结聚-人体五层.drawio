@@ -1,0 +1,64 @@
+<mxfile host="Electron" modified="2024-07-04T07:19:51.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="aR0gGrREf4y1gtBcGDP_" version="24.6.1" type="device">
+  <diagram name="第 1 页" id="FAxyJCZb2OYBetN2Dcmv">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q7TpAXP7ceilFqp9WqNi-12" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="90" y="30" width="500" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TpAXP7ceilFqp9WqNi-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" parent="q7TpAXP7ceilFqp9WqNi-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="50" as="sourcePoint" />
+            <mxPoint x="190" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7TpAXP7ceilFqp9WqNi-2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" parent="q7TpAXP7ceilFqp9WqNi-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="80" as="sourcePoint" />
+            <mxPoint x="190" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7TpAXP7ceilFqp9WqNi-3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" parent="q7TpAXP7ceilFqp9WqNi-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="110" as="sourcePoint" />
+            <mxPoint x="190" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7TpAXP7ceilFqp9WqNi-4" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" parent="q7TpAXP7ceilFqp9WqNi-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="140" as="sourcePoint" />
+            <mxPoint x="190" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7TpAXP7ceilFqp9WqNi-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" parent="q7TpAXP7ceilFqp9WqNi-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="170" as="sourcePoint" />
+            <mxPoint x="190" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7TpAXP7ceilFqp9WqNi-7" value="肺主皮毛（收敛之气）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="q7TpAXP7ceilFqp9WqNi-12" vertex="1">
+          <mxGeometry x="196" y="35" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TpAXP7ceilFqp9WqNi-8" value="心主血脉" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="q7TpAXP7ceilFqp9WqNi-12" vertex="1">
+          <mxGeometry x="196" y="65" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TpAXP7ceilFqp9WqNi-9" value="脾主肌肉（左旋右旋）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="q7TpAXP7ceilFqp9WqNi-12" vertex="1">
+          <mxGeometry x="196" y="95" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TpAXP7ceilFqp9WqNi-10" value="肝主筋（主生发）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="q7TpAXP7ceilFqp9WqNi-12" vertex="1">
+          <mxGeometry x="196" y="125" width="124" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TpAXP7ceilFqp9WqNi-11" value="肾主骨（藏精，通过肝向外生发）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="q7TpAXP7ceilFqp9WqNi-12" vertex="1">
+          <mxGeometry x="196" y="154" width="234" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7htm4J1kJE-t9btw1opV-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.44;dx=27.2;direction=north;notch=0;rotation=-180;" vertex="1" parent="q7TpAXP7ceilFqp9WqNi-12">
+          <mxGeometry x="100" y="85" width="21" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7htm4J1kJE-t9btw1opV-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.44;dx=27.2;direction=north;notch=0;" vertex="1" parent="q7TpAXP7ceilFqp9WqNi-12">
+          <mxGeometry x="151" y="85" width="21" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

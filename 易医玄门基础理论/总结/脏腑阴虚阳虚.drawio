@@ -1,0 +1,75 @@
+<mxfile host="Electron" modified="2024-06-27T12:25:01.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="HvAB9oCSgD7-r_5X2YUY" version="24.6.1" type="device">
+  <diagram name="第 1 页" id="FAxyJCZb2OYBetN2Dcmv">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-3" value="内脏之阴虚" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="33" y="125" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-12" value="内脏之阳虚" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="35" y="327" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="95" y="157" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-1" value="脏" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="2IG1ggF4Ktj4NxFq5ozq-17">
+          <mxGeometry x="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-2" value="人神" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="2IG1ggF4Ktj4NxFq5ozq-17">
+          <mxGeometry x="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2IG1ggF4Ktj4NxFq5ozq-17" source="2IG1ggF4Ktj4NxFq5ozq-1" target="2IG1ggF4Ktj4NxFq5ozq-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="60" as="sourcePoint" />
+            <mxPoint x="86.28427124746213" y="42.71572875253787" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2IG1ggF4Ktj4NxFq5ozq-4">
+          <mxGeometry x="0.031" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-8" value="精（去者为阴）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2IG1ggF4Ktj4NxFq5ozq-4">
+          <mxGeometry x="-0.0103" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-7" value="精聚(至者为阳，阴虚则内热)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="2IG1ggF4Ktj4NxFq5ozq-17">
+          <mxGeometry y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="92" y="372" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-10" value="脏" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="2IG1ggF4Ktj4NxFq5ozq-18">
+          <mxGeometry x="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-11" value="人神" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="2IG1ggF4Ktj4NxFq5ozq-18">
+          <mxGeometry x="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2IG1ggF4Ktj4NxFq5ozq-18" source="2IG1ggF4Ktj4NxFq5ozq-10" target="2IG1ggF4Ktj4NxFq5ozq-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="60" as="sourcePoint" />
+            <mxPoint x="86.28427124746213" y="42.71572875253787" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2IG1ggF4Ktj4NxFq5ozq-13">
+          <mxGeometry x="0.031" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-15" value="精（出得少了,至者为阳）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2IG1ggF4Ktj4NxFq5ozq-13">
+          <mxGeometry x="-0.0103" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-16" value="精散(去者为阴，阳虚则内寒)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="2IG1ggF4Ktj4NxFq5ozq-18">
+          <mxGeometry y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2IG1ggF4Ktj4NxFq5ozq-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="2IG1ggF4Ktj4NxFq5ozq-18">
+          <mxGeometry x="265" y="33.5" width="10" height="13" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

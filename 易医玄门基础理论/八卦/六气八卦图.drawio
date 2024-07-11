@@ -1,11 +1,11 @@
-<mxfile host="Electron" modified="2024-06-25T01:32:22.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="wI6pU9Q7aQ0_AtPymeSN" version="24.6.1" type="device">
+<mxfile host="Electron" modified="2024-06-25T01:59:51.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="7cpKDAEyzcjt1wWT5Xfx" version="24.6.1" type="device">
   <diagram name="第 1 页" id="-19R8RWWiSfhEVDIW26V">
     <mxGraphModel dx="295" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="475JEqMZFDhB_UGq1GgA-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="88" y="109" width="660" height="481" as="geometry" />
+          <mxGeometry x="90" y="109" width="660" height="481" as="geometry" />
         </mxCell>
         <mxCell id="475JEqMZFDhB_UGq1GgA-2" value="亁" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="475JEqMZFDhB_UGq1GgA-1" vertex="1">
           <mxGeometry x="293" y="92" width="60" height="30" as="geometry" />
@@ -328,14 +328,32 @@
         <mxCell id="1yzxrGkdT82YfdIKFlE0-79" value="水" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="475JEqMZFDhB_UGq1GgA-1" vertex="1">
           <mxGeometry x="514" y="224" width="29" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1yzxrGkdT82YfdIKFlE0-82" value="先天八卦图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;fontColor=#FFB366;" parent="475JEqMZFDhB_UGq1GgA-1" vertex="1">
-          <mxGeometry x="40" y="31" width="100" height="30" as="geometry" />
+        <mxCell id="YAnIMzt5TxLBlXElZm-d-2" value="风" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="475JEqMZFDhB_UGq1GgA-1" vertex="1">
+          <mxGeometry x="411" y="130" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o0uDRCMUStbvTuwU8aGR-1" value="巽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="475JEqMZFDhB_UGq1GgA-1">
-          <mxGeometry x="405" y="130" width="30" height="30" as="geometry" />
+        <mxCell id="YAnIMzt5TxLBlXElZm-d-4" value="阳明燥金" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;labelBorderColor=#FFB366;textShadow=0;" parent="475JEqMZFDhB_UGq1GgA-1" vertex="1">
+          <mxGeometry x="125" y="53.5" width="77" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o0uDRCMUStbvTuwU8aGR-2" value="风" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="475JEqMZFDhB_UGq1GgA-1">
-          <mxGeometry x="463" y="76" width="30" height="30" as="geometry" />
+        <mxCell id="YAnIMzt5TxLBlXElZm-d-5" value="少阴君火" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;labelBorderColor=#FFB366;textShadow=0;" parent="475JEqMZFDhB_UGq1GgA-1" vertex="1">
+          <mxGeometry x="70" y="205" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAnIMzt5TxLBlXElZm-d-6" value="厥阴风木" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;labelBorderColor=#FFB366;textShadow=0;" parent="475JEqMZFDhB_UGq1GgA-1" vertex="1">
+          <mxGeometry x="466" y="62" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAnIMzt5TxLBlXElZm-d-83" value="太阳寒水" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;labelBorderColor=#FFB366;textShadow=0;" parent="475JEqMZFDhB_UGq1GgA-1" vertex="1">
+          <mxGeometry x="514" y="195.5" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAnIMzt5TxLBlXElZm-d-84" value="太阴湿土" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;labelBorderColor=#FFB366;textShadow=0;" parent="475JEqMZFDhB_UGq1GgA-1" vertex="1">
+          <mxGeometry x="470" y="351" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAnIMzt5TxLBlXElZm-d-85" value="相火之木" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;labelBorderColor=#FFB366;textShadow=0;" parent="475JEqMZFDhB_UGq1GgA-1" vertex="1">
+          <mxGeometry x="103" y="346" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAnIMzt5TxLBlXElZm-d-1" value="风" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="555" y="189" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QwHFZxag8MX0QT0f692x-1" value="未完成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="185" y="80" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

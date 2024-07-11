@@ -1,0 +1,178 @@
+<mxfile host="Electron" modified="2021-12-02T10:16:37.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="MEQzjqqhBPQ-TJ5jXdbd" version="24.6.1" type="device">
+  <diagram name="第 1 页" id="FAxyJCZb2OYBetN2Dcmv">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="170" width="446" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-7" value="" style="group" vertex="1" connectable="0" parent="bzsGn5UY4xeC1Vj_KpYG-10">
+          <mxGeometry width="446" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-1" value="厥阴风木" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-7">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-3" value="足厥阴肝" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-7">
+          <mxGeometry x="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-4" value="&lt;div&gt;手厥阴心包&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-7">
+          <mxGeometry x="169" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-5" value="乙木" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-7">
+          <mxGeometry x="345" y="1" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-6" value="&lt;div&gt;相火&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-7">
+          <mxGeometry x="346" y="31" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="bzsGn5UY4xeC1Vj_KpYG-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="70" as="sourcePoint" />
+            <mxPoint x="430" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="bzsGn5UY4xeC1Vj_KpYG-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" as="sourcePoint" />
+            <mxPoint x="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="128" y="246" width="446" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-12" value="" style="group" vertex="1" connectable="0" parent="bzsGn5UY4xeC1Vj_KpYG-11">
+          <mxGeometry width="446" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-13" value="少阴君火" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-12">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-14" value="手少阴心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-12">
+          <mxGeometry x="166" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-15" value="&lt;div&gt;足少阴肾&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-12">
+          <mxGeometry x="169" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-16" value="丁火" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-12">
+          <mxGeometry x="345" y="1" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-17" value="&lt;div&gt;癸水&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-12">
+          <mxGeometry x="346" y="31" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="bzsGn5UY4xeC1Vj_KpYG-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="18" y="70" as="sourcePoint" />
+            <mxPoint x="428" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="327" width="446" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-21" value="" style="group" vertex="1" connectable="0" parent="bzsGn5UY4xeC1Vj_KpYG-20">
+          <mxGeometry width="446" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-22" value="少阳相火" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-21">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-23" value="手少阳三焦" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-21">
+          <mxGeometry x="174" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-24" value="&lt;div&gt;足少阳胆&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-21">
+          <mxGeometry x="169" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-25" value="相火" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-21">
+          <mxGeometry x="345" y="1" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-26" value="&lt;div&gt;甲木&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-21">
+          <mxGeometry x="346" y="31" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="bzsGn5UY4xeC1Vj_KpYG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="70" as="sourcePoint" />
+            <mxPoint x="430" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="132" y="404" width="446" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-30" value="" style="group" vertex="1" connectable="0" parent="bzsGn5UY4xeC1Vj_KpYG-29">
+          <mxGeometry width="446" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-31" value="太阴湿土" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-30">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-32" value="足太阴脾" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-30">
+          <mxGeometry x="169" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-33" value="&lt;div&gt;手太阴肺&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-30">
+          <mxGeometry x="166" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-34" value="己土" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-30">
+          <mxGeometry x="345" y="1" width="100" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-35" value="辛金" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-30">
+          <mxGeometry x="346" y="31" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-36" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="bzsGn5UY4xeC1Vj_KpYG-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="70" as="sourcePoint" />
+            <mxPoint x="430" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="131" y="550" width="446" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-38" value="" style="group" vertex="1" connectable="0" parent="bzsGn5UY4xeC1Vj_KpYG-37">
+          <mxGeometry width="446" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-39" value="太阳寒水" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-38">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-40" value="足太阳膀胱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-38">
+          <mxGeometry x="172" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-41" value="&lt;div&gt;手太阳小肠&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-38">
+          <mxGeometry x="171" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-42" value="壬水" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-38">
+          <mxGeometry x="345" y="1" width="100" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-43" value="丙火" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-38">
+          <mxGeometry x="346" y="31" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-44" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="bzsGn5UY4xeC1Vj_KpYG-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="70" as="sourcePoint" />
+            <mxPoint x="430" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="480" width="446" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-46" value="" style="group" vertex="1" connectable="0" parent="bzsGn5UY4xeC1Vj_KpYG-45">
+          <mxGeometry width="446" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-47" value="阳明燥金" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-46">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-48" value="手阳明大肠" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-46">
+          <mxGeometry x="169" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-49" value="&lt;div&gt;足阳明胃&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-46">
+          <mxGeometry x="166" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-50" value="庚金" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-46">
+          <mxGeometry x="345" y="1" width="100" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-51" value="戊土" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="bzsGn5UY4xeC1Vj_KpYG-46">
+          <mxGeometry x="346" y="31" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsGn5UY4xeC1Vj_KpYG-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="bzsGn5UY4xeC1Vj_KpYG-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="70" as="sourcePoint" />
+            <mxPoint x="430" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
